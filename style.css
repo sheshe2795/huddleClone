@@ -1,5 +1,5 @@
 body {
-background-image: url(images/bg-desktop.svg);
+background-image: url(bg-desktop.svg);
 background-size: 75%;
 background-repeat: no-repeat;
     background-color: hsl(257, 40%, 49%);
@@ -49,7 +49,7 @@ button {
 }
 @media (max-width: 375px) {
     body {
-        background-image: url(images/bg-mobile.svg);
+        background-image: url(bg-mobile.svg);
         background-size: 100%;
     }
     .page img{
